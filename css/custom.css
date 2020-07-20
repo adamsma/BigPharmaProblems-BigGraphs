@@ -1,0 +1,175 @@
+.reveal .slides section .fragment.strike-red,
+.reveal .slides section .fragment.strike-current-red{
+	opacity: 1;
+	visibility: inherit;
+}
+
+.reveal .slides section .fragment.strike-red.visible{
+	color: #ff2c2d;
+	text-decoration: line-through;
+		text-decoration-line: line-through;
+		text-decoration-style: initial;
+		text-decoration-color: initial;
+}
+
+.reveal .slides section .fragment.insert-right{
+	transform: translate(-20%, 0);
+	font-size: 0%;
+}
+
+.reveal .slides section .fragment.insert-right.visible{
+	transform: translate(0, 0);
+	font-size: inherit;
+}
+
+.reveal .slides section .fragment.insert-left{
+	transform: translate(20%, 0);
+	font-size: 0%;
+}
+
+.reveal .slides section .fragment.insert-left.visible{
+	transform: translate(0, 0);
+	font-size: inherit;
+}
+
+.reveal h1 {
+    font-size: 1.95em;
+}
+
+.reveal h5 {
+  font-size: 0.67em;
+  margin-bottom: 0;
+}
+
+.reveal .single-quote {
+  font-size: 1.3em;
+  padding: 0.25em;
+  width: 100%;
+  margin: 0;
+  background: rgba(255, 255, 255, 0.7)
+}
+
+.reveal .slides section .fragment.disappear{
+	opacity: 1;
+	visibility: inherit;
+	display: inline-block;
+}
+
+.reveal .slides section .fragment.disappear.visible {
+  transform: scale(0);
+  visibility: hidden;
+  display: none;
+}
+
+.reveal .slides section .fragment.appear-up {
+  transform: translate(0, 120px);
+}
+
+.reveal .slides section .fragment.appear-up.visible {
+  -webkit-transform: translate(0, 0); 
+  visibility: inherit;
+  display: inherit;
+}
+
+.reveal li{
+  padding-bottom: 6px;
+}
+
+.reveal h1.darkoutline{
+	text-shadow: 
+		0 1px 0 #1c1e20, 
+		0 2px 0 #1c1e20, 
+		0 3px 0 #1c1e20, 
+		0 4px 0 #b9b9b9, 
+		0 5px 0 #aaa, 
+		0 6px 1px rgba(0, 0, 0, 0.1), 
+		0 0 5px rgba(0, 0, 0, 0.1), 
+		0 1px 3px rgba(0, 0, 0, 0.3), 
+		0 3px 5px rgba(0, 0, 0, 0.2), 
+		0 5px 10px rgba(0, 0, 0, 0.25), 
+		0 20px 20px rgba(0, 0, 0, 0.15);
+}
+
+.reveal .column {
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.reveal .faText{
+	font-family: "Font Awesome 5 Free";
+	font-weight: 900;
+}
+
+.reveal .noframe{
+	background: inherit; 
+	border: 0px; 
+	box-shadow: none;
+}
+
+.reveal .logo{
+	width: 5em;
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  position: absolute;
+  bottom: -3%;
+  margin: 0;
+}
+
+.hater {
+  text-align: left;
+  float: left;
+}
+
+.nothater{
+  text-align: right;
+  overflow: hidden;
+}
+
+.reveal .hater.column {
+  width: 65%;
+}
+
+.reveal .nothater.column{
+  width: 35%;
+}
+
+.info-srouce {
+  font-size: 80%;
+  opacity: 0.4;
+}
+
+
+.reveal .slides section .fragment.highlight-teal,
+.reveal .slides section .fragment.highlight-current-teal,
+ {
+  opacity: 1;
+  visibility: inherit;
+}
+
+.reveal .slides section .fragment.highlight-teal.visible {
+  color: #00877C
+}
+
+.reveal .slides section .fragment.fill-green
+{
+  opacity: 1;
+  visibility: inherit;
+}
+
+.reveal .slides section .fragment.fill-green.visible.current-fragment {
+  fill: green;
+}
+
+#sensitivity-label {
+  position: absolute; 
+  bottom: 0.5em; 
+  left: 0.5em;
+  height: 1.5em;
+  margin: 0px;
+}

@@ -1,0 +1,63 @@
+/*.description {
+    max-width: 40em;
+    margin-bottom: 1.0em;
+    font-size: 0.9em;
+    text-align: center;
+    line-height: 1.4em;
+    opacity: 0.5;
+}*/
+
+
+.twrapper {
+  position: relative;
+  /* background: #9ae0ac; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em 1em;
+  letter-spacing: -0.011em;
+  font-family: 'Inter var', sans-serif;
+  font-size: 16px;
+  color: #34495e;
+  background: #f8f9fa;
+}
+
+svg text {
+    fill: #34495e;
+}
+
+.tooltip {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 275px;
+    padding: 0.6em 1em;
+    background: #fff;
+    text-align: left;
+    line-height: 1.4em;
+    font-size: 0.9em;
+    border: 1px solid #ddd;
+    z-index: 10;
+    pointer-events: none;
+    transform: translate(10px, 100px);
+}
+
+.tooltip-line {
+    fill: #555;
+    fill-opacity: 0.6;
+    mix-blend-mode: multiply;
+    pointer-events: none; 
+}
+
+.linkLine {
+    fill: #555;
+    stroke: #555;
+    stroke-opacity: 0.7;
+    stroke-width: 2;
+
+}
+
+.batch-label {
+    text-anchor: middle;
+}

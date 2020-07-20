@@ -1,0 +1,19 @@
+[
+	{"id": 1, "parentId": 2, "BatchNum": "0000424242", "MaterialNum": "2000001", "Description": "UNOB Gen99 100 mg Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25251106", "Reveal": 0, "Level": 1},
+	
+	{"id": 3, "parentId": 4, "BatchNum": "0000654321", "MaterialNum": "2000002", "Description": "unobtainovir Gen 99 Blend", "Source": "COMET", "Plant": "Lilliput", "DOM": "25250502", "Reveal": 1, "Level": 3},
+	{"id": 4, "BatchNum": "0000123456", "MaterialNum": "2000003", "Description": "unobtainovir 42 mg/gm Gran ", "Source": "COMET", "Plant": "Lilliput", "DOM": "30001115", "Reveal": 1, "Level": 4},
+	
+	{"id": 5, "parentId": 3, "BatchNum": "0000123123", "MaterialNum": "2000004", "Description": "UNOB Gen99 100 mg  Core Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25250504", "Reveal": 2, "Level": 2},
+	{"id": 2, "parentId": 3, "BatchNum": "0000321321", "MaterialNum": "2000004", "Description": "UNOB Gen99 100 mg  Core Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25250505", "Reveal": 1, "Level": 2},
+	{"id": 6, "parentId": 3, "BatchNum": "0000234567", "MaterialNum": "2000005", "Description": "UNOB Gen99 50 mg Core Tablets", "Source": "COMET", "Plant": "Lilliput", "DOM": "25250505", "Reveal": 2, "Level": 2},
+	{"id": 7, "parentId": 3, "BatchNum": "0000987654", "MaterialNum": "2000005", "Description": "UNOB Gen99 50 mg Core Tablets", "Source": "COMET", "Plant": "Lilliput", "DOM": "25250506", "Reveal": 2, "Level": 2},
+	
+	{"id": 8, "parentId": 5, "BatchNum": "0000222222", "MaterialNum": "2000001", "Description": "UNOB Gen99 100 mg Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25251106", "Reveal": 2, "Level": 1},
+	{"id": 9, "parentId": 6, "BatchNum": "0000333333", "MaterialNum": "2000006", "Description": "UNOB Gen99 50 mg Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25251101", "Reveal": 2, "Level": 1},
+	{"id": 10, "parentId": 7, "BatchNum": "0000777777", "MaterialNum": "2000006", "Description": "UNOB Gen99 50 mg Tablet", "Source": "COMET", "Plant": "Lilliput", "DOM": "25251101", "Reveal": 2, "Level": 1},
+	
+	{"id": 11, "parentId": 1, "BatchNum": "P012345", "MaterialNum": "1000001", "Description": "Pillzet 100 mg 3x10 Tablets UK", "Source": "COMET", "Plant": "Brobdingnag", "DOM": "35350106", "Reveal": 2, "Level": 0},
+	{"id": 12, "parentId": 1, "BatchNum": "P023456", "MaterialNum": "1000002", "Description": "Capsulenol 100 mg 3x10 Tablets CAN", "Source": "COMET", "Plant": "Brobdingnag", "DOM": "35350106", "Reveal": 2, "Level": 0},
+	{"id": 13, "parentId": 1, "BatchNum": "P034567", "MaterialNum": "1000003", "Description": "Tablymis 100 mg 3x10 Tablets US", "Source": "COMET", "Plant": "Brobdingnag", "DOM": "35350106", "Reveal": 2, "Level": 0}	
+]

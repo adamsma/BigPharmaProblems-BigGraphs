@@ -1,0 +1,129 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137891968-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'UA-137891968-2');
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Big Pharma Problems. Big Graphs</title>
+  <link rel="shortcut icon" id="pillChoice" href="slides/img/redcon.ico">
+
+  <script>
+
+    //updated the icon depending on if the tab has active focus
+    document.onvisibilitychange = function () {
+      if (this.visibilityState === "visible") {
+        document.getElementById("pillChoice").href = "slides/img/redcon.ico"
+      } else {
+        document.getElementById("pillChoice").href = "slides/img/bluecon.ico"
+      }
+    }
+
+  </script>
+
+  <!-- Source Plugin Scripts -->
+  <script src='plugin/markdown/markdown.js'></script>
+  <script src='plugin/highlight/highlight.js'></script>
+  <script src='plugin/notes/notes.js'></script>
+
+  <link rel="stylesheet" href="dist/reset.css">
+  <link rel="stylesheet" href="dist/reveal.css">
+  <link rel="stylesheet" href="dist/theme/league.css" id="theme">
+  <!-- Theme used for syntax highlighting of code -->
+  <link rel="stylesheet" href="css/monokai.css">
+
+
+  <!-- some tweaks to reveal css -->
+  <style type="text/css">
+    .reveal h1 {
+      font-size: 2.0em;
+    }
+
+    .reveal h2 {
+      font-size: 1.5em;
+    }
+
+    .reveal h3 {
+      font-size: 1.25em;
+    }
+
+    .reveal h4 {
+      font-size: 1em;
+    }
+
+    .reveal .slides > section,
+    .reveal .slides > section > section {
+      padding: 0px 0px;
+    }
+  </style>
+
+  <!-- personal css sheets-->
+  <link rel="stylesheet" href="css/custom.css" />
+  <link rel="stylesheet" href="css/genealogy.css" type="text/css">
+  <link rel="stylesheet" href="css/batchTbl.css" type="text/css">
+
+</head>
+<body>
+  <div class="reveal">
+    <img src="slides/img/public.png" id="sensitivity-label">
+    <div class="slides">
+      <section data-markdown="slides/01-Intro.md" data-state="intro"></section>
+      <section data-markdown="slides/02-Merck_Who_Are_You.md"></section>
+      <section data-markdown="slides/03-Three_Times_A_MIM.md"></section>
+      <section data-markdown="slides/04-Big_Pharma_Problems.md"></section>
+      <section data-markdown="slides/05-Mr_Batchside.md" data-state="genealogy"></section>
+      <section data-markdown="slides/06-Here_Comes_Da_Mesh.md"></section>
+      <section data-markdown="slides/07-Closing.md"></section>
+    </div>
+  </div>
+
+  <script>
+
+    // sets the vertical separator for all slide sections
+    Array.from(document.getElementsByTagName("section")).forEach(
+      d => d.setAttribute("data-separator-vertical", "^\\|\\|\\|")
+    )
+
+  </script>
+
+  <script src="dist/reveal.js"></script>
+  <script src="js/d3.min.js"></script>
+  <script src="js/tree.js"></script>
+
+  <script>
+    Reveal.initialize({
+
+      // people focus on how much left to go
+      progress: false,
+
+      // Add the current slide number to the URL hash so that reloading the
+      // page/copying the URL will return you to the same slide
+      hash: true,
+
+      // Slides written in Markdown and have speaker notes
+      plugins: [RevealMarkdown, RevealNotes],
+
+      // only use left and right arrows which may be more intuitive for users
+      navigationMode: 'linear',
+
+      // turn on for reviewers only
+      showNotes: false
+    })
+
+    // prevents chart from being off-center; only needed once
+    Reveal.addEventListener("genealogy", drawChart)
+    Reveal.addEventListener("genealogy", () => {
+      Reveal.removeEventListener("genealogy", drawChart)
+    })
+
+  </script>
+
+</body>
+</html>

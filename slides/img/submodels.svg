@@ -1,0 +1,106 @@
+<svg
+	xmlns="http://www.w3.org/2000/svg" class="graphdiagram" viewBox="-950 -725 1920 950">
+	<g class="layer relationships">
+		<g class="related-pair">
+			<g class="relationship" transform="translate(175.51999999999936,-11.999999999999535) rotate(-90)">
+				<path class="relationship" d="M 95.80086588360982 4 L 369.34927983154523 4 L 369.34927983154523 16 L 401.34927983154523 0 L 369.34927983154523 -16 L 369.34927983154523 -4 L 95.80086588360982 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" x="232.5750728575775" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">MADE AT</text>
+			</g>
+		</g>
+		<g class="related-pair">
+			<g class="relationship" transform="translate(175.51999999999936,-11.999999999999535) rotate(-41.78634681474304)">
+				<path class="relationship" d="M 95.80086588360982 4 L 585.1001612679046 4 L 585.1001612679046 16 L 617.1001612679046 0 L 585.1001612679046 -16 L 585.1001612679046 -4 L 95.80086588360982 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" x="340.4505135757572" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">IS MATERIAL</text>
+			</g>
+		</g>
+		<g class="related-pair">
+			<g class="relationship" transform="translate(175.51999999999936,-11.999999999999535) rotate(0)">
+				<path class="relationship" d="M 95.80086588360982 4 L 421.61618001482907 4 L 421.61618001482907 16 L 453.61618001482907 0 L 421.61618001482907 -16 L 421.61618001482907 -4 L 95.80086588360982 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" x="258.7085229492194" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">PRODUCES</text>
+			</g>
+		</g>
+		<g class="related-pair">
+			<g class="relationship" transform="translate(-711.6864135742209,-11.999999999999535) rotate(-41.036352834305866)">
+				<path class="relationship" d="M 109.60315096314712 4 L 633.6093190277215 4 L 633.6093190277215 16 L 665.6093190277215 0 L 633.6093190277215 -16 L 633.6093190277215 -4 L 109.60315096314712 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" x="371.60623499543436" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">ANALYZED FOR</text>
+			</g>
+		</g>
+		<g class="related-pair">
+			<g class="relationship" transform="translate(-147.57878570556764,-503.00000000000006) rotate(180)">
+				<path class="relationship" d="M 82.25324576583681 4 L 430.3281212042055 4 L 430.3281212042055 16 L 462.3281212042055 0 L 430.3281212042055 -16 L 430.3281212042055 -4 L 82.25324576583681 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" transform="rotate(180)" x="-256.29068348502113" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">RETURNED</text>
+			</g>
+		</g>
+		<g class="related-pair">
+			<g class="relationship" transform="translate(-711.6864135742209,-11.999999999999535) rotate(0)">
+				<path class="relationship" d="M 109.60315096314712 4 L 455.603032528855 4 L 455.603032528855 16 L 487.603032528855 0 L 455.603032528855 -16 L 455.603032528855 -4 L 109.60315096314712 -4 Z" fill="rgb(0, 0, 0)" stroke="rgb(51, 51, 51)" stroke-width="0px"/>
+				<text class="type" text-anchor="middle" baseline-shift="30%" alignment-baseline="alphabetic" x="282.60309174600104" y="0" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">TAKEN FROM</text>
+			</g>
+		</g>
+	</g>
+	<g class="layer nodes">
+		<circle class="node node-id-0" r="74.65072016845528" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="175.51999999999936" cy="-503.00000000000006"/>
+		<circle class="node node-id-1" r="80.80086588360982" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="175.51999999999936" cy="-11.999999999999535"/>
+		<circle class="node node-id-2" r="104.74452407885683" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="724.9370458984382" cy="-503.00000000000006"/>
+		<circle class="node node-id-3" r="80.80086588360982" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="724.9370458984382" cy="-11.999999999999535"/>
+		<circle class="node node-id-4" r="61.50459533979826" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="-147.57878570556764" cy="-11.999999999999535"/>
+		<circle class="node node-id-6" r="94.60315096314712" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="-711.6864135742209" cy="-11.999999999999535"/>
+		<circle class="node node-id-7" r="67.25324576583681" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="-147.57878570556764" cy="-503.00000000000006"/>
+		<circle class="node node-id-8" r="86.77950666444777" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-width="8px" cx="-711.6864135742209" cy="-503.00000000000006"/>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="175.51999999999936" y="-503.00000000000006" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Plant</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="175.51999999999936" y="-11.999999999999535" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Batch</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="724.9370458984382" y="-503.00000000000006" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Material</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="724.9370458984382" y="-11.999999999999535" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Batch</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="-147.57878570556764" y="-11.999999999999535" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Lot</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="-711.6864135742209" y="-11.999999999999535" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Sample</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="-147.57878570556764" y="-503.00000000000006" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Test</text>
+		</g>
+		<g class="caption">
+			<text class="caption node" text-anchor="middle" alignment-baseline="central" x="-711.6864135742209" y="-503.00000000000006" fill="rgb(51, 51, 51)" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Result</text>
+		</g>
+	</g>
+	<g class="layer properties"/>
+	<g class="layer overlay">
+		<circle class="node overlay" r="78.65072016845528" stroke="none" fill="rgba(255, 255, 255, 0)" cx="175.51999999999936" cy="-503.00000000000006"/>
+		<circle class="node overlay" r="84.80086588360982" stroke="none" fill="rgba(255, 255, 255, 0)" cx="175.51999999999936" cy="-11.999999999999535"/>
+		<circle class="node overlay" r="108.74452407885683" stroke="none" fill="rgba(255, 255, 255, 0)" cx="724.9370458984382" cy="-503.00000000000006"/>
+		<circle class="node overlay" r="84.80086588360982" stroke="none" fill="rgba(255, 255, 255, 0)" cx="724.9370458984382" cy="-11.999999999999535"/>
+		<circle class="node overlay" r="65.50459533979826" stroke="none" fill="rgba(255, 255, 255, 0)" cx="-147.57878570556764" cy="-11.999999999999535"/>
+		<circle class="node overlay" r="98.60315096314712" stroke="none" fill="rgba(255, 255, 255, 0)" cx="-711.6864135742209" cy="-11.999999999999535"/>
+		<circle class="node overlay" r="71.25324576583681" stroke="none" fill="rgba(255, 255, 255, 0)" cx="-147.57878570556764" cy="-503.00000000000006"/>
+		<circle class="node overlay" r="90.77950666444777" stroke="none" fill="rgba(255, 255, 255, 0)" cx="-711.6864135742209" cy="-503.00000000000006"/>
+		<circle class="node ring" r="83.65072016845528" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="175.51999999999936" cy="-503.00000000000006"/>
+		<circle class="node ring" r="89.80086588360982" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="175.51999999999936" cy="-11.999999999999535"/>
+		<circle class="node ring" r="113.74452407885683" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="724.9370458984382" cy="-503.00000000000006"/>
+		<circle class="node ring" r="89.80086588360982" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="724.9370458984382" cy="-11.999999999999535"/>
+		<circle class="node ring" r="70.50459533979826" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="-147.57878570556764" cy="-11.999999999999535"/>
+		<circle class="node ring" r="103.60315096314712" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="-711.6864135742209" cy="-11.999999999999535"/>
+		<circle class="node ring" r="76.25324576583681" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="-147.57878570556764" cy="-503.00000000000006"/>
+		<circle class="node ring" r="95.77950666444777" fill="none" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" cx="-711.6864135742209" cy="-503.00000000000006"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(175.51999999999936,-11.999999999999535) rotate(-90)" d="M 95.80086588360982 4 L 369.34927983154523 4 L 369.34927983154523 16 L 401.34927983154523 0 L 369.34927983154523 -16 L 369.34927983154523 -4 L 95.80086588360982 -4 Z"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(175.51999999999936,-11.999999999999535) rotate(-41.78634681474304)" d="M 95.80086588360982 4 L 585.1001612679046 4 L 585.1001612679046 16 L 617.1001612679046 0 L 585.1001612679046 -16 L 585.1001612679046 -4 L 95.80086588360982 -4 Z"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(175.51999999999936,-11.999999999999535) rotate(0)" d="M 95.80086588360982 4 L 421.61618001482907 4 L 421.61618001482907 16 L 453.61618001482907 0 L 421.61618001482907 -16 L 421.61618001482907 -4 L 95.80086588360982 -4 Z"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(-711.6864135742209,-11.999999999999535) rotate(-41.036352834305866)" d="M 109.60315096314712 4 L 633.6093190277215 4 L 633.6093190277215 16 L 665.6093190277215 0 L 633.6093190277215 -16 L 633.6093190277215 -4 L 109.60315096314712 -4 Z"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(-147.57878570556764,-503.00000000000006) rotate(180)" d="M 82.25324576583681 4 L 430.3281212042055 4 L 430.3281212042055 16 L 462.3281212042055 0 L 430.3281212042055 -16 L 430.3281212042055 -4 L 82.25324576583681 -4 Z"/>
+		<path class="relationship overlay" fill="rgba(255, 255, 255, 0)" stroke="rgba(255, 255, 255, 0)" stroke-width="10px" transform="translate(-711.6864135742209,-11.999999999999535) rotate(0)" d="M 109.60315096314712 4 L 455.603032528855 4 L 455.603032528855 16 L 487.603032528855 0 L 455.603032528855 -16 L 455.603032528855 -4 L 109.60315096314712 -4 Z"/>
+	</g>
+	<g class="layer domains">
+		<rect x="-850" y="-635" width="812" height="739" stroke="red" stroke-width="5" fill="none"/>
+		<text class="caption domains" text-anchor="middle" alignment-baseline="central" x="-444" y="-675" fill="#eee" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">LIMS Model</text>
+		<rect x="53" y="-635" width="820" height="739" stroke="red" stroke-width="5" fill="none"/>
+		<text class="caption domains" text-anchor="middle" alignment-baseline="central" x="463" y="-675" fill="#eee" font-size="50px" font-family="&quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri, sans-serif">Batch Genealogy Model</text>
+	</g>
+	</svg>
